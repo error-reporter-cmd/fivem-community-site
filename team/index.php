@@ -1,1 +1,278 @@
-<?php $GLOBALS['_174198091_']='base64_decode';eval(gzuncompress($GLOBALS['_174198091_']('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')));
+include '../config.php'; ?><!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title><?php echo $cname  ?> - Team</title>
+  <link rel="icon" type="image/x-icon" href="<?php echo $clogo  ?>">
+  <meta name="description" content="<?php echo $cabout  ?>">
+      <meta property="og:title" content="Home - <?php echo $cname  ?>">
+      <meta property="og:description" content="<?php echo $cabout  ?>">
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>  
+
+<style>
+  
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Plus:ital@1&family=Kdam+Thmor+Pro&family=Lobster&family=Russo+One&display=swap');
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.column {
+  float: left;
+  width: 33.3%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+
+@media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
+
+.card h2 {
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-size: 30px;
+  color: whitesmoke;
+}
+  
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    background-color: black; 
+    center no-repeat; /*Setting a background image via url. The position of the background will be center and the image will be set so that it does not repeat. */
+    background-size: cover; /*Setting the size of the background to cover will scale the image to fill the entire space of the container while preserving it's ratio.*/
+    border: 2px solid whitesmoke;
+    border-radius: 4px;
+    position: relative; /*Position of relative is set because of the title that we will have inside of here with position of absolute.*/
+    transform-style: preserve-3d; /*This will make the children of the card remain in a 3D space (the title). */
+    will-change: transform; /*Tells the user agent to expect a change on the transform property and prepares it for rendering. */
+    transition: transform .5s; /*Makes the animation smooth over .5 seconds. */
+}
+
+.card:hover{
+    transform: translateZ(10px)
+    rotateX(20deg) rotateY(30deg);
+    /*
+        The translateZ function repositions the element along the z-axis in 3D space, for example, closer to or farther away from the viewer.
+        The rotateX function will rotate the element in the X axis, rotateY on the Y axis.
+    */
+}
+  
+.container {
+  padding: 0 16px;
+}
+
+.container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+      font-family: 'Russo One', sans-serif;
+  color: grey;
+}
+
+.button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+}
+
+.button:hover {
+  background-color: #555;
+}
+
+#footer {
+  opacity: 30%;
+  text-align: center;
+   position:fixed;
+   left:0px;
+   bottom:0px;
+   height:30px;
+   width:100%;
+    font-family: 'Russo One', sans-serif;
+}
+
+#footer:hover{
+  opacity: 100%;
+}
+
+/* IE 6 */
+* html #footer {
+   position:absolute;
+   top:expression((0-(footer.offsetHeight)+(document.documentElement.clientHeight ? document.documentElement.clientHeight : document.body.clientHeight)+(ignoreMe = document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop))+'px');
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+h1{
+  color: whitesmoke;
+}
+
+p{
+    color: whitesmoke;
+}
+
+a{
+  text-decoration: none;
+  font-family: 'Russo One', sans-serif;
+  color: #1e90ff;
+}
+
+body {
+  background: url('<?php echo $backgroundimg  ?>') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin: 0;
+}
+
+.itali{
+font-family: 'Lobster', cursive;
+
+}
+
+/* Style the header with a grey background and some padding */
+.header {
+  overflow: hidden;
+  padding: 20px 10px;
+}
+
+/* Style the header links */
+.header a {
+  float: left;
+  color: black;
+  text-align: center;
+  margin-top: 10px;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 25px;
+  border-radius: 4px;
+}
+
+/* Style the logo link (notice that we set the same value of line-height and font-size to prevent the header to increase when the font gets bigger */
+.header a.logo {
+  margin-top: -10px;
+  max-width: 20px;
+}
+
+.logo img{
+  max-height: 100px;
+  max-width: 100px;
+}
+
+/* Change the background color on mouse-over */
+.header a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Style the active/current link*/
+.header a.active {
+  background-color: dodgerblue;
+  color: white;
+}
+
+/* Float the link section to the right */
+.header-right {
+  float: right;
+}
+
+/* Add media queries for responsiveness - when the screen is 500px wide or less, stack the links on top of each other */
+@media screen and (max-width: 500px) {
+  .header{
+  background:rgba(199, 194, 197, 0.8);
+    font-family: 'Russo One', sans-serif;
+  }
+  .header a {
+    float: none;
+    display: block;
+    text-align: left;
+    font-family: 'Russo One', sans-serif;
+  }
+  .header-right {
+    float: none;
+  }
+  
+  .logo img{
+  display: none;
+}
+}
+
+</style>
+
+  
+<body>
+    <div class="header">
+  <a href="#default" class="logo"> <img src="<?php echo $clogo  ?>">
+  <div class="header-right">
+    <a href="<?php echo $domain  ?>">Home</a>
+    <a class="active" href="<?php echo $domain  ?>/team">Team</a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="<?php echo $mem1pic  ?>" alt="<?php echo $mem1name  ?>" style="width:100%">
+      <div class="container">
+        <h2><?php echo $mem1name  ?></h2>
+        <p class="title"><?php echo $mem1tile  ?></p>
+        <p><span class="itali"><?php echo $mem1desc  ?></span></p>
+
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="<?php echo $mem2pic  ?>" alt="<?php echo $mem2name  ?>" style="width:100%">
+      <div class="container">
+        <h2><?php echo $mem2name  ?></h2>
+        <p class="title"><?php echo $mem2tile  ?></p>
+        <p><span class="itali"><?php echo $mem2desc  ?></span></p>
+
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="<?php echo $mem3pic  ?>" alt="<?php echo $mem3name  ?>" style="width:100%">
+      <div class="container">
+        <h2><?php echo $mem3name  ?></h2>
+        <p class="title"><?php echo $mem3tile  ?></p>
+        <p><span class="itali"><?php echo $mem3desc  ?></span></p>
+
+      </div>
+    </div>
+  </div>
+</div>
+<p id="footer"> <a href="https://discord.gg/XZPsrNpzsW" target="_blank">Website by Unified Modifications</a></p>
+
+  <script src="script.js"></script>
+</body>  
+</html>
